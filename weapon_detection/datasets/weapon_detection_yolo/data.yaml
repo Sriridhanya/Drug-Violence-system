@@ -1,0 +1,6 @@
+path: C:\Users\sriri\drug-violence-system\weapon_detection\datasets\weapon_detection_yolo
+train: train/images
+val: val/images
+
+nc: 9
+names: ['Automatic Rifle', 'Bazooka', 'Grenade Launcher', 'Handgun', 'Knife', 'Shotgun', 'SMG', 'Sniper', 'Sword']
